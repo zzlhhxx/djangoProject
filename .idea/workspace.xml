@@ -156,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735480677058</updated>
       <workItem from="1735480678447" duration="5687000" />
-      <workItem from="1735486553913" duration="295000" />
+      <workItem from="1735486553913" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -174,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735486580674</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第二次提交">
+      <option name="closed" value="true" />
+      <created>1735486953863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735486953863</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
