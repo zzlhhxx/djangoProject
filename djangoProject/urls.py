@@ -16,7 +16,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-# print("niaho")
+from  django.shortcuts import HttpResponse
+
+# def index(request):
+#     return HttpResponse("Hello World")  #视图函数一般不会写到URLs中，而是写在app中的
 urlpatterns = [
-    path('admin/', admin.site.urls),
+
+    # path('s', index),# http://127.0.0.1:8000/s
+    # path('admin/', admin.site.urls),
 ]
